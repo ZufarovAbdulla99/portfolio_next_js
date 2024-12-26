@@ -16,7 +16,7 @@ const ProjectsPage = ({children}: {children: React.ReactNode}) => {
       title: "LMS",
       description: "Mobile-first web application",
       tech: ["React Native", "Firebase", "Redux"],
-      image: "https://savvycomsoftware.com/wp-content/uploads/2023/06/Learning-Management-System-2.webp",
+      image: "https://cdn.dribbble.com/userupload/13933070/file/original-1735c44299464246eab29111da23b9ec.jpg?crop=0x0-3201x2401&format=webp&resize=400x300&vertical=center",
     },
   ];
 
